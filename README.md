@@ -1,3 +1,27 @@
+# 📚 Console Library Management System (Java)
+
+A simple **console-based Java application** to manage library operations such as adding books, viewing books, searching, issuing, and returning books.
+
+This project is developed using **Core Java**, **OOP concepts**, **Collections**, and **File I/O**, and is suitable for **freshers and beginners**.
+
+---
+
+## 🚀 Features
+
+- Add new books
+- View all books
+- Search book by ID
+- Issue a book
+- Return a book
+- Persistent storage using File I/O
+
+---
+
+## 🧠 Concepts Used
+
+- Object-Oriented Programming (OOP)
+- Encapsulation
+- Classes & Objects
 - Java Collections (`ArrayList`)
 - File Handling (Serialization)
 - Exception Handling
@@ -26,7 +50,7 @@ LibraryManagementSystem
 ---
 
 ## 🛠️ Technologies Used
-@@ -53,13 +58,13 @@ LibraryManagementSystem
+@@ -53,27 +58,27 @@
 2. Open Eclipse IDE
 3. Import the project:
 - File → Import → Existing Projects into Workspace
@@ -42,3 +66,17 @@ LibraryManagementSystem
 - Data persists even after closing the application
 
 ---
+
+## 👨‍💻 Author
+
+- **Java Console Project**
+- Developed as part of learning **Java & OOP concepts**
+
+---
+
+## 📌 Future Enhancements
+
+- Search book by name
+- User roles (Admin/User)
+- JDBC + MySQL integration
+- GUI using JavaFX or Swing
